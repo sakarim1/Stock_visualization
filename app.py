@@ -7,7 +7,7 @@ import plotly.express as px
 
 
 st.write("""
-# Samad's TDI Milestone Project
+# Samad's Stock visualization on Streamlit
 ### An interactive chart of stock closing prices using Streamlit and Plotly.""")
 
 st.sidebar.header('Select Plot Parameters:')
